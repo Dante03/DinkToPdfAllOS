@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DinkToPdfAllOS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Dantescorps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("A DinkToPdfAllOs wrapper that only includes the x64 and x86 version of the wkhtml" +
+    "tox library for all desktop platforms.")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinkToPdfAllOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinkToPdfAllOS")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

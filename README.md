@@ -1,4 +1,4 @@
-# DinkToPdfAll
+# DinkToPdfAllOs
 .NET Standard library which wrapping the [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) library that include x64 and x86 version of the wkhtmltox library for all desktop platforms.
 
 ## Install
